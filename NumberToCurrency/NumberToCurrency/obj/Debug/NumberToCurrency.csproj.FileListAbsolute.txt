@@ -1,0 +1,7 @@
+C:\Users\wolfg\Desktop\tempRepo\NumberToWordsConverter\NumberToCurrency\NumberToCurrency\bin\Debug\NumberToCurrency.exe.config
+C:\Users\wolfg\Desktop\tempRepo\NumberToWordsConverter\NumberToCurrency\NumberToCurrency\bin\Debug\NumberToCurrency.exe
+C:\Users\wolfg\Desktop\tempRepo\NumberToWordsConverter\NumberToCurrency\NumberToCurrency\bin\Debug\NumberToCurrency.pdb
+C:\Users\wolfg\Desktop\tempRepo\NumberToWordsConverter\NumberToCurrency\NumberToCurrency\obj\Debug\NumberToCurrency.csprojAssemblyReference.cache
+C:\Users\wolfg\Desktop\tempRepo\NumberToWordsConverter\NumberToCurrency\NumberToCurrency\obj\Debug\NumberToCurrency.csproj.CoreCompileInputs.cache
+C:\Users\wolfg\Desktop\tempRepo\NumberToWordsConverter\NumberToCurrency\NumberToCurrency\obj\Debug\NumberToCurrency.exe
+C:\Users\wolfg\Desktop\tempRepo\NumberToWordsConverter\NumberToCurrency\NumberToCurrency\obj\Debug\NumberToCurrency.pdb

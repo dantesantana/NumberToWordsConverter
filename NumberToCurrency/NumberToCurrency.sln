@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberToCurrency", "NumberToCurrency\NumberToCurrency.csproj", "{20092349-CD12-42BB-A8B2-4C96DC384508}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20092349-CD12-42BB-A8B2-4C96DC384508}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20092349-CD12-42BB-A8B2-4C96DC384508}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20092349-CD12-42BB-A8B2-4C96DC384508}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20092349-CD12-42BB-A8B2-4C96DC384508}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F0CCE8B-328B-4B8D-9A56-69FD11ECF1B1}
+	EndGlobalSection
+EndGlobal
